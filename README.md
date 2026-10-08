@@ -3,7 +3,7 @@
 # Nex2killer (d4ywalker)
 ### Game Developer & Fullstack Web Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Mastering+All+Modern+Web+Technologies;Frontend%2C+Backend+%26+Web+Engines;C%23+%26+Game+Client+Reimplementation;Active+Contributor+to+LibreKO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Creator+of+Knight+Online+3D+Model+Viewer;Active+Contributor+to+LibreKO;Mastering+All+Modern+Web+Technologies;C%23%2C+Three.js%2C+TypeScript+%26+Reverse+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,10 +15,16 @@
 
 ---
 
+### Featured Projects
+- **[knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer)**: Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (`.n3chr`, `.n3anim`, `.n3pmesh`), DXT texture decoder, and particle/FX rendering engine with Three.js.
+- **[LibreKO](https://github.com/d4ywalker/LibreKO)**: Actively building & contributing to the from-scratch reimplementation of the Knight Online game client in C#.
+
+---
+
 ### About Me
 - **Web Development**: Highly proficient in **all web programming languages & modern web stacks** 鈥?from responsive frontend UIs to scalable backend architectures, APIs, and real-time web applications.
-- **Game Development**: Actively building & contributing to **[LibreKO](https://github.com/d4ywalker/LibreKO)** (from-scratch reimplementation of the Knight Online game client in C#).
-- **Core Focus**: High-performance web applications, game mechanics, network synchronization, and automation tooling.
+- **Game Tooling & Graphics**: Specialized in 3D WebGL rendering, custom binary file format parsers, animation skeletal systems, and game mechanics.
+- **Core Focus**: High-performance web applications, game client architecture, network synchronization, and automation tooling.
 - **Philosophy**: Writing clean, robust, and scalable code across both web ecosystems and low-level software.
 
 ---
@@ -44,6 +50,8 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white)
 
 #### Databases, Tools & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
