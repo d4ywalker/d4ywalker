@@ -11,10 +11,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-near.ahmad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/near.ahmad)
 [![Instagram](https://img.shields.io/badge/Instagram-ahmadbaihaqi27-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbaihaqi27)
 
-<br/><br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=d4ywalker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/d4ywalker)
-
 </div>
 
 ---
@@ -89,10 +85,6 @@ If you would like to support my open-source projects or acquire commercial licen
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4ywalker&theme=tokyonight&hide_border=true&stroke=ffb703&ring=ffb703&fire=ffb703" alt="d4ywalker's Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=d4ywalker&theme=tokyo-night&hide_border=true&area=true" alt="d4ywalker's Activity Graph" />
 
 </div>
 
