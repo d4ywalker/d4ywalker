@@ -94,11 +94,6 @@ If you would like to support my open-source projects or acquire commercial licen
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=d4ywalker&theme=tokyo-night&hide_border=true&area=true" alt="d4ywalker's Activity Graph" />
 
-<br/><br/>
-
-### Contribution Snake Game
-<img src="https://raw.githubusercontent.com/d4ywalker/d4ywalker/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
 </div>
 
 ---
