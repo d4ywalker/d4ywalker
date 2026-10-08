@@ -1,9 +1,9 @@
 <div align="center">
 
 # Nex2killer (d4ywalker)
-### Game Programmer & Open Source Contributor
+### Game Developer & Fullstack Web Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=Game+Developer+%26+Reverse+Engineering;C%23+%26+Game+Client+Reimplementation;Active+Contributor+to+LibreKO;Building+Online+Game+Systems+%26+Engines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Mastering+All+Modern+Web+Technologies;Frontend%2C+Backend+%26+Web+Engines;C%23+%26+Game+Client+Reimplementation;Active+Contributor+to+LibreKO)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,10 +16,10 @@
 ---
 
 ### About Me
-- **Current Project**: Actively building & contributing to **[LibreKO](https://github.com/d4ywalker/LibreKO)** (from-scratch reimplementation of the Knight Online game client).
-- **Core Focus**: Game mechanics, zone systems, automated event schedulers, and game network architecture.
-- **Specialties**: C#, Game Client Architecture, TypeScript web engines, and automation scripts.
-- **Philosophy**: Writing clean, modular, and performant game code.
+- **Web Development**: Highly proficient in **all web programming languages & modern web stacks** 鈥?from responsive frontend UIs to scalable backend architectures, APIs, and real-time web applications.
+- **Game Development**: Actively building & contributing to **[LibreKO](https://github.com/d4ywalker/LibreKO)** (from-scratch reimplementation of the Knight Online game client in C#).
+- **Core Focus**: High-performance web applications, game mechanics, network synchronization, and automation tooling.
+- **Philosophy**: Writing clean, robust, and scalable code across both web ecosystems and low-level software.
 
 ---
 
@@ -27,19 +27,32 @@
 
 <div align="center">
 
-#### Languages & Frameworks
+#### 馃寪 Fullstack Web Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 鈿旓笍 Game Dev & Software Engineering
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-#### Tools & Environments
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 馃洜锔?Databases, Tools & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%230079D8.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
