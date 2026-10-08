@@ -17,7 +17,7 @@
 
 ### Featured Projects
 - **[knightonline-chaos-panel-theme](https://github.com/d4ywalker/knightonline-chaos-panel-theme)**: Production-ready dark-fantasy Web Portal, Gateway Video Landing, and Admin CMS Engine for Knight Online servers.
-- **[knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer)**: Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (`.n3chr`, `.n3anim`, `.n3pmesh`), DXT texture decoder, and particle/FX rendering engine.
+- **[knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer)**: Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (.n3chr, .n3anim, .n3pmesh), DXT texture decoder, and particle/FX rendering engine.
 - **[LibreKO](https://github.com/d4ywalker/LibreKO)**: Actively building & contributing to the from-scratch reimplementation of the Knight Online game client in C#.
 
 ---
@@ -27,6 +27,13 @@
 - **Game Tooling & Graphics**: Specialized in 3D WebGL rendering, custom binary file format parsers, animation skeletal systems, and game mechanics.
 - **Core Focus**: High-performance web applications, game client architecture, network synchronization, and automation tooling.
 - **Philosophy**: Writing clean, robust, and scalable code across both web ecosystems and low-level software.
+
+---
+
+### Support & Payment Channels
+If you would like to support my open-source projects or acquire commercial licenses:
+- **PayPal**: `vishaka.ahmad@gmail.com`
+- **USDT (TRC-20 / TRON Network)**: `TY4KH1tfqfPTd3vQ2Vw4EzeEuKEmdsyyjL`
 
 ---
 
