@@ -1,6 +1,6 @@
 <div align="center">
 
-# Near Ahmad (d4ywalker)
+# Nex2killer (d4ywalker)
 ### Game Programmer & Open Source Contributor
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=600&lines=Game+Developer+%26+Reverse+Engineering;C%23+%26+Game+Client+Reimplementation;Active+Contributor+to+LibreKO;Building+Online+Game+Systems+%26+Engines)](https://git.io/typing-svg)
