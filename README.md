@@ -54,6 +54,14 @@
 
 ---
 
+### Connect With Me
+
 <div align="center">
-  <i>"Writing code, solving network bugs, and bringing virtual worlds to life."</i>
+
+[![Discord](https://img.shields.io/badge/Discord-ahmad.bai-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Facebook](https://img.shields.io/badge/Facebook-near.ahmad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/near.ahmad)
+[![Instagram](https://img.shields.io/badge/Instagram-ahmadbaihaqi27-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbaihaqi27)
+
+<br/><br/>
+<i>"Writing code, solving network bugs, and bringing virtual worlds to life."</i>
 </div>
