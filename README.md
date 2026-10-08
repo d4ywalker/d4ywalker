@@ -3,7 +3,7 @@
 # Nex2killer (d4ywalker)
 ### Game Developer & Fullstack Web Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Creator+of+Knight+Online+3D+Model+Viewer;Active+Contributor+to+LibreKO;Mastering+All+Modern+Web+Technologies;C%23%2C+Three.js%2C+TypeScript+%26+Reverse+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Creator+of+Panel+Theme+Chaos+Web+Engine;Creator+of+Knight+Online+3D+Model+Viewer;Active+Contributor+to+LibreKO;Mastering+All+Modern+Web+Technologies)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,8 @@
 ---
 
 ### Featured Projects
-- **[knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer)**: Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (`.n3chr`, `.n3anim`, `.n3pmesh`), DXT texture decoder, and particle/FX rendering engine with Three.js.
+- **[knightonline-chaos-panel-theme](https://github.com/d4ywalker/knightonline-chaos-panel-theme)**: Production-ready dark-fantasy Web Portal, Gateway Video Landing, and Admin CMS Engine for Knight Online servers.
+- **[knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer)**: Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (`.n3chr`, `.n3anim`, `.n3pmesh`), DXT texture decoder, and particle/FX rendering engine.
 - **[LibreKO](https://github.com/d4ywalker/LibreKO)**: Actively building & contributing to the from-scratch reimplementation of the Knight Online game client in C#.
 
 ---
