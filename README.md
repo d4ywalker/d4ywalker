@@ -3,7 +3,7 @@
 # Nex2killer (d4ywalker)
 ### Game Developer & Fullstack Web Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Creator+of+Panel+Classicv2+Return+PUS+Engine;Creator+of+Panel+Theme+Chaos+Web+Engine;Creator+of+Knight+Online+3D+Model+Viewer;Active+Contributor+to+LibreKO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Creator+of+Golden+Razor+Barbershop+Platform;Creator+of+Panel+Classicv2+Return+PUS+Engine;Creator+of+Panel+Theme+Chaos+Web+Engine;Creator+of+Knight+Online+3D+Model+Viewer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,6 +16,7 @@
 ---
 
 ### Featured Projects
+- [golden-razor-barbershop-cms](https://github.com/d4ywalker/golden-razor-barbershop-cms): Enterprise appointment booking system, Stripe checkout payment gateway, automated WhatsApp notification dispatcher (Fonnte API), grooming e-commerce shop, and admin analytics dashboard.
 - [panel-classicv2-return](https://github.com/d4ywalker/panel-classicv2-return): Production-ready Web Portal, in-game Power Up Store (PUS), multi-channel Top-Up billing gateway, ranking leaderboards, and multi-language engine for Knight Online.
 - [knightonline-chaos-panel-theme](https://github.com/d4ywalker/knightonline-chaos-panel-theme): Dark-fantasy Web Portal, Gateway Video Landing, and Admin CMS Engine for Knight Online servers.
 - [knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer): Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (.n3chr, .n3anim, .n3pmesh), DXT texture decoder, and particle/FX rendering engine.
@@ -24,7 +25,7 @@
 ---
 
 ### About Me
-- Web Development: Highly proficient in all web programming languages & modern web stacks - from responsive frontend UIs to scalable backend architectures, APIs, and real-time web applications.
+- Commercial Web & E-Commerce: Expert in building full-scale SaaS platforms, real-time booking engines, Stripe/PayPal payment integrations, and CRM dashboards.
 - Game Tooling & Graphics: Specialized in 3D WebGL rendering, custom binary file format parsers, animation skeletal systems, and game mechanics.
 - Core Focus: High-performance web applications, game client architecture, network synchronization, and automation tooling.
 - Philosophy: Writing clean, robust, and scalable code across both web ecosystems and low-level software.
@@ -42,7 +43,7 @@ If you would like to support my open-source projects or acquire commercial licen
 
 <div align="center">
 
-#### Fullstack Web Development
+#### Fullstack Web Development & Payments
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,6 +53,7 @@ If you would like to support my open-source projects or acquire commercial licen
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Game Dev & Software Engineering
