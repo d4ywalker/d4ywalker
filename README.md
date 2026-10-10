@@ -3,10 +3,11 @@
 # Nex2killer (d4ywalker)
 ### Game Developer & Fullstack Web Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Creator+of+Golden+Razor+Barbershop+Platform;Creator+of+Panel+Classicv2+Return+PUS+Engine;Creator+of+Panel+Theme+Chaos+Web+Engine;Creator+of+Knight+Online+3D+Model+Viewer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=FFB703&center=true&vCenter=true&width=650&lines=Game+Developer+%26+Fullstack+Web+Expert;Creator+of+Knight+Online+Database+Editor;Creator+of+Knight+Online+3D+Model+Viewer;Creator+of+Golden+Razor+Barbershop+Platform;Creator+of+Panel+Classicv2+Return+PUS+Engine)](https://git.io/typing-svg)
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Baihaqi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-baihaqi-dev/)
 [![Discord](https://img.shields.io/badge/Discord-ahmad.bai-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Facebook](https://img.shields.io/badge/Facebook-near.ahmad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/near.ahmad)
 [![Instagram](https://img.shields.io/badge/Instagram-ahmadbaihaqi27-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbaihaqi27)
@@ -16,10 +17,11 @@
 ---
 
 ### Featured Projects
+- [knightonline-database-editor](https://github.com/d4ywalker/knightonline-database-editor): Comprehensive C# .NET WPF desktop administration and database editor for Knight Online server databases (MSSQL / Web API Bridge). Includes Power Up Store (PUS), drop rate engine, Shozin crafting, quests, and automated bots.
+- [knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer): Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (.n3chr, .n3anim, .n3pmesh), DXT texture decoder, and particle/FX rendering engine.
 - [golden-razor-barbershop-cms](https://github.com/d4ywalker/golden-razor-barbershop-cms): Enterprise appointment booking system, Stripe checkout payment gateway, automated WhatsApp notification dispatcher (Fonnte API), grooming e-commerce shop, and admin analytics dashboard.
 - [panel-classicv2-return](https://github.com/d4ywalker/panel-classicv2-return): Production-ready Web Portal, in-game Power Up Store (PUS), multi-channel Top-Up billing gateway, ranking leaderboards, and multi-language engine for Knight Online.
 - [knightonline-chaos-panel-theme](https://github.com/d4ywalker/knightonline-chaos-panel-theme): Dark-fantasy Web Portal, Gateway Video Landing, and Admin CMS Engine for Knight Online servers.
-- [knightonline-chr-viewer](https://github.com/d4ywalker/knightonline-chr-viewer): Interactive 3D Web & Desktop Model Viewer for Knight Online featuring custom NoahSystem binary parser (.n3chr, .n3anim, .n3pmesh), DXT texture decoder, and particle/FX rendering engine.
 - [LibreKO](https://github.com/d4ywalker/LibreKO): Actively building & contributing to the from-scratch reimplementation of the Knight Online game client in C#.
 
 ---
